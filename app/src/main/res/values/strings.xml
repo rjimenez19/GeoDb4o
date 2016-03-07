@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoDb4o</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="lunes">Lunes</string>
+    <string name="martes">Martes</string>
+    <string name="miercoles">Miercoles</string>
+    <string name="jueves">Jueves</string>
+    <string name="viernes">Viernes</string>
+    <string name="sabado">Sabado</string>
+    <string name="domingo">Domingo</string>
+    <string name="clave">AIzaSyChGHeB7k1GYmHJ2c3pn9sd2dmmLBf-PBY</string>
+</resources>

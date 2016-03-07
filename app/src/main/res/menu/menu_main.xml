@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rafa.geodb4o.MainActivity">
+    <item
+        android:id="@+id/lunes"
+        android:orderInCategory="100"
+        android:title="@string/lunes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/martes"
+        android:orderInCategory="100"
+        android:title="@string/martes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/miercoles"
+        android:orderInCategory="100"
+        android:title="@string/miercoles"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/jueves"
+        android:orderInCategory="100"
+        android:title="@string/jueves"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/viernes"
+        android:orderInCategory="100"
+        android:title="@string/viernes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sabado"
+        android:orderInCategory="100"
+        android:title="@string/sabado"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/domingo"
+        android:orderInCategory="100"
+        android:title="@string/domingo"
+        app:showAsAction="never" />
+</menu>
